@@ -1,0 +1,154 @@
+{
+  "Account": {
+    "Username": "Pepayiskates",
+    "Password": "Appollo91",
+    "Currency": "Doge",
+    "2FA": "OFF",
+    "Auto Proxy": "OFF",
+    "API Access": "OFF"
+  },
+  "Target Profit": "5",
+  "Target Win": "350",
+  "Lose Target": "0",
+  "Interval": "0",
+  "Betset": [
+    {    
+      "Name Bet Set": "01 - ga ada ahlak",
+      "Base Bet": "0.1",
+      "Stop Max Bet": "OFF",
+      "Max Bet": "OFF",
+      "Chance": "11",
+      "Random Chance": {
+        "Toggle": "ON",
+        "Min": "5",
+        "Max": "55"
+      },
+      "Bet": {
+        "Bet": "Hi", 
+        "Hi / Low": {
+          "Toggle": "ON",
+          "If Lose": "3",
+          "If Win": "2"
+        }
+      },
+      "Mode1": {
+        "Toggle": "OFF",
+        "Prebet": "0.00001",
+        "Start Strike If Win": "0",
+        "Limit Strike If Win": "0",
+        "Start Multi": "0",
+        "Limit Multi": "0"
+      },
+      "Mode2": {
+        "Toggle": "ON",
+        "Prebet": "0.01",
+        "Preroll": "50",
+        "Multipler": "1.3"
+      },
+      "Mode3": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Preroll": "10",
+        "Multipler": "1.11",
+        "Max LS Strike": "60"
+      },
+         "Mode4": {
+        "Toggle": "Off",
+        "Prebet": "0.01",
+        "Start Fishing": "2",
+        "Stop Fishing": "5",
+        "Multipler": "2"
+      },
+      "Mode5": {
+        "Toggle": "OFF",
+        "Lose": "0",
+        "Win": "1",
+        "Profit": "0.00000001"
+      },
+      "Dalembert": {
+        "Toggle": "Off",
+        "Profit": "0.000001"
+      },
+      "Fibonacci1": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Preroll": "40",
+        "Max LS Strike": "80"
+      },
+      "If Win": "1",
+      "If Lose": "2.5",
+      "Reset If Win": "1",
+      "Reset If Profit": "0.0000001",
+      "Interval": "0"
+    },{
+      "Name Bet Set": "01 - ga ada ahlak",
+      "Base Bet": "0.003",
+      "Stop Max Bet": "OFF",
+      "Max Bet": "OFF",
+      "Chance": "55",
+      "Random Chance": {
+        "Toggle": "ON",
+        "Min": "45",
+        "Max": "55"
+      },
+      "Bet": {
+        "Bet": "Hi",
+        "Hi / Low": {
+          "Toggle": "ON",
+          "If Lose": "1",
+          "If Win": "1"
+        }
+      },
+      "Mode1": {
+        "Toggle": "OFF",
+        "Prebet": "0.0000001",
+        "Start Strike If Win": "1",
+        "Limit Strike If Win": "7",
+        "Start Multi": "1",
+        "Limit Multi": "1.3"
+      },
+      "Mode2": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Preroll": "93",
+        "Multipler": "1.06"
+      },
+      "Mode3": {
+        "Toggle": "OFF",
+        "Prebet": "0.000001",
+        "Preroll": "50",
+        "Multipler": "1.11",
+        "Max LS Strike": "60"
+      },
+      "Mode4": {
+        "Toggle": "ON",
+        "Prebet": "0.01",
+        "Start Fishing": "2",
+        "Stop Fishing": "3",
+        "Multipler": "1.025"
+      },
+      "Fibonacci1": {
+        "Toggle": "OFF",
+        "Prebet": "0.0000001",
+        "Preroll": "40",
+        "Max LS Strike": "80"
+      },
+      "If Win": "1",
+      "If Lose": "3",
+      "Reset If Win": "1",
+      "Reset If Profit": "0.00000001",
+      "Interval": "0"
+    }
+  ],
+  "Proxy Manual": {
+    "Toggle": "OFF",
+    "Ip": "103.152.119.231",
+    "Port": "8080"
+  },
+  "Auto Wd": {
+    "Toggle": "OFF",
+    "If Balance": "0",
+    "Wallet Address": "XXXXXXX",
+    "Amount": "0"
+  }
+}
